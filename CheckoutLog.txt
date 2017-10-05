@@ -1,0 +1,3 @@
+('Item', 1, 'checked out', 'by user', 'XYZ', 'at time:', datetime.datetime(2017, 3, 24, 9, 17, 44, 331411))
+('Item', 32, 'checked out', 'by user', 'Rambo', 'at time:', datetime.datetime(2017, 3, 24, 9, 17, 46, 359414))
+('Item', 10, 'checked out', 'by user', 'Rambo', 'at time:', datetime.datetime(2017, 3, 24, 9, 17, 48, 371818))

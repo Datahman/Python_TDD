@@ -1,0 +1,2 @@
+Below are the list of items carried by library account holders at present 
+User: XYZ| Item ID: 10 | Type Map: | Name: Manchester | Page count: 1
